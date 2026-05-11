@@ -45,9 +45,9 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-paez&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-paez&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -56,5 +56,5 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 ## 📫 Contacto
 
 [![Gmail](https://img.shields.io/badge/davepaezm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davepaezm@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dave-paez)
 [![WhatsApp](https://img.shields.io/badge/3215955630-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573215955630)
