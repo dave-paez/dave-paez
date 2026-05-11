@@ -47,6 +47,8 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 
 <img src="https://streak-stats.demolab.com?user=dave-paez&theme=tokyonight&hide_border=true" />
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
