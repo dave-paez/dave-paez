@@ -17,8 +17,9 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 | I.E La Milagrosa | Técnico en Instalación de Redes Internas de Telecomunicaciones | Graduado | 2024 |
 | CESDE | Curso de Java | Certificado | Nov 2025 |
 | CESDE | Curso de HTML | Certificado | Nov 2025 |
+| CESDE | Curso de CSS | Certificado | Nov 2025 |
+| CESDE | Curso de JavaScript | Certificado | Nov 2025 |
 | CESDE | Curso de Fundamentos de Bases de Datos | Certificado | Nov 2025 |
-| CESDE | Excel Básico | Certificado | Ene 2026 |
 
 ---
 
@@ -29,13 +30,14 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🛠️ Frameworks / Herramientas
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 
