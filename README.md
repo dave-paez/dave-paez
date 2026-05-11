@@ -45,9 +45,9 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dave-paez&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dave-paez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-paez&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-paez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
