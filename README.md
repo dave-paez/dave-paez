@@ -6,7 +6,7 @@
 
 Estudiante de técnica y tecnología en Desarrollo de Software en el CESDE y practicante de bootcamp de inteligencia artificial en la Universidad Nacional de Antioquia. Me destaco por aplicar de manera práctica los conocimientos académicos en el desarrollo de proyectos personales y trabajos de clase, fortaleciendo continuamente mis habilidades técnicas.
 
-Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a Objetos (POO) y gestión de colecciones. Cuento con competencias en **Bases de Datos** (DDL, DML y funciones intermedias), así como en el desarrollo web fundamental mediante **HTML, CSS y Bootstrap**, con un enfoque actual en el dominio de la manipulación del DOM con **JavaScript**.
+Practicante en Asistencia de Desarrollo de Software, con 12 meses de experiencia en el sector tecnológico. Cuenta con conocimientos en Python, Java, HTML5, bases de datos, Excel, limpieza y análisis de datos, así como optimización de prompts para herramientas de inteligencia artificial. Se caracteriza por su orientación al logro, escucha activa, apertura al aprendizaje y capacidad para la resolución de conflictos. Posee un nivel de inglés A2 y muestra interés en continuar fortaleciendo sus competencias en desarrollo de software, análisis de datos y tecnologías emergentes.
 
 ---
 
