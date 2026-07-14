@@ -20,6 +20,14 @@ Poseo conocimientos en **Java** bajo el paradigma de Programación Orientada a O
 | CESDE | Curso de CSS | Certificado | Nov 2025 |
 | CESDE | Curso de JavaScript | Certificado | Nov 2025 |
 | CESDE | Curso de Fundamentos de Bases de Datos | Certificado | Nov 2025 |
+| CESDE | Curso de Gestion de Equipos Aguiles | Certificado | May 2026 |
+| CESDE | Curso de Asincronismo con JavaScript | Certificado | May 2026 |
+| CESDE | Curso de Jave SE SQL y Bases de Datos | Certificado | May 2026 |
+| CESDE | Curso de Promt Engineering | Certificado | May 2026 |
+| CESDE | Curso de Python | Certificado | Jun 2026 |
+| CESDE | Curso de PowerBI | Certificado | Jun 2026 |
+
+
 
 ---
 
